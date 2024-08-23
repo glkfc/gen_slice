@@ -1,6 +1,8 @@
 # Gen_slice
 
 > 代码写的不是很好，仅供大家参考。
+>
+> 参考论文:[SySeVR: A Framework for Using Deep Learning to Detect Software Vulnerabilities](https://arxiv.org/abs/1807.06756)
 
 ## 1、使用说明
 
