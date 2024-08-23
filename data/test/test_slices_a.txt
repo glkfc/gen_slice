@@ -1,0 +1,9 @@
+serial number:0 vul_api_line:11 memset
+void func()
+char *data;
+char dataBuffer[100];
+memset(dataBuffer, 'A', 99);
+data = dataBuffer - 8;
+println(data);
+2
+------------------------------
